@@ -586,6 +586,7 @@ Typecasting is a process of converting a value of one data type to another. The 
   double myDoubleVariable = 20.85;
   int myIntVariable = (int)myDoubleVariable;
   ```
+  
 
 ### UI -
 Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with UX*
@@ -601,3 +602,6 @@ Software that makes it possible to use one computer operating system (like Linux
 
 ### Webpack -
 Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules.
+
+Definition:
+Debugging is the process of detecting and removing of existing and potential errors (also called as 'bugs') in a software code that can cause it to behave unexpectedly or crash.
